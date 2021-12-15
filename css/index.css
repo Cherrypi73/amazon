@@ -1,0 +1,67 @@
+*{
+    border: 0;
+    padding: 0;
+}
+.borda:hover{
+    border: 1px solid white;
+}
+.up{
+    margin-top: -20px;
+}
+
+header{
+  background-color: black;
+}
+.lupa{
+    background-image: url(../img/lupa.png);
+    width: 40px;
+    margin-left: -6px;
+ height: 43px;
+ border-radius: 3px;
+}
+.border-orange{
+    border: #ff9900  2px solid;
+}
+.text1{
+    font-size: 16px;
+    list-style-type: none;
+}
+.dropdown{
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+  background-color: white;
+ border-radius: 4px;
+ display: none;
+}
+.botao{
+    border:  2px solid #b0820f;
+    border-radius: 3px;
+  background-image: url(../img/fundo.png);
+   margin-top: 30px;
+color: #4f452d;
+
+}
+nav{
+    background-color: #232f3e;
+}
+nav li{
+    list-style-type: none;
+
+}
+.back-top{
+    background-color: #37475a;
+}
+.back-top:hover{
+    filter: opacity(0.8);
+}
+.footer-1{
+    background-color: #232f3e;
+}
+footer li {
+ list-style-type: none;
+
+}
+.size{
+    font-size: 14px;
+}
